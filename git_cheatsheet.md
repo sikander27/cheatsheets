@@ -56,3 +56,6 @@
    > git branch -m oldname newname
 2. If you want to rename the current branch, you can do:
    > git branch -m newname
+   
+## Revert to a commit 
+   > git reset --hard commit-id
